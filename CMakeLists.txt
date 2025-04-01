@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10.0)
 project(tilegame VERSION 0.1.0 LANGUAGES C CXX)
 
-add_executable(tilegame main.cpp)
+add_executable(tilegame src/main.cpp)
 

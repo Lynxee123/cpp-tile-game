@@ -320,7 +320,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\lilia\OneDrive\Desktop\cpp tile game\main.cpp" />
+    <ClCompile Include="C:\Users\lilia\OneDrive\Desktop\cpp tile game\src\main.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
