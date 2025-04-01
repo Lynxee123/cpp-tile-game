@@ -1,0 +1,10 @@
+^C:\USERS\LILIA\ONEDRIVE\DESKTOP\CPP TILE GAME\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/lilia/OneDrive/Desktop/cpp tile game" "-BC:/Users/lilia/OneDrive/Desktop/cpp tile game/build" --check-stamp-file "C:/Users/lilia/OneDrive/Desktop/cpp tile game/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

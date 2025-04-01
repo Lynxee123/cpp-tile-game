@@ -1,0 +1,3 @@
+C:/Users/lilia/OneDrive/Desktop/cpp tile game/build/CMakeFiles/tilegame.dir
+C:/Users/lilia/OneDrive/Desktop/cpp tile game/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lilia/OneDrive/Desktop/cpp tile game/build/CMakeFiles/ZERO_CHECK.dir
